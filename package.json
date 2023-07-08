@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github-poldeeek:poldeeek/my_app.git",
   "author": "Pawel <pawelp258@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "frontend": "yarn --cwd frontend run dev"
+  }
 }
