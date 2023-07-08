@@ -6,6 +6,7 @@
   "author": "Pawel <pawelp258@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "backend": "yarn --cwd backend run start:dev",
     "frontend": "yarn --cwd frontend run dev"
   }
 }
