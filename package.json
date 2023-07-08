@@ -1,0 +1,8 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github-poldeeek:poldeeek/my_app.git",
+  "author": "Pawel <pawelp258@gmail.com>",
+  "license": "MIT"
+}
